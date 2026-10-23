@@ -2,6 +2,9 @@
 
 **Plataforma web educativa para el aprendizaje y la consulta de desarrollo Front-End.**
 
+**Demo: [**Ver MasterFront en línea**](https://ai.studio/apps/e790aaa0-e4f0-4293-8b4e-1026853684d5)
+
+
 ## Descripción
 
 MasterFront es una plataforma web diseñada para ayudar a estudiantes, principiantes y personas autodidactas a aprender y consultar conceptos relacionados con el desarrollo Front-End. Su propósito es ofrecer un espacio de aprendizaje accesible, con artículos, ejemplos y prácticas sobre tecnologías web, complementado con un asistente virtual basado en inteligencia artificial.
