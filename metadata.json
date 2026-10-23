@@ -1,0 +1,8 @@
+{
+  "name": "MasterFront",
+  "description": "Plataforma web interactiva para la consulta de artículos sobre desarrollo Front-End, con un asistente virtual basado en inteligencia artificial para resolver dudas de programación front-end.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
